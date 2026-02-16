@@ -23,7 +23,8 @@ Issues - Tracking all defects, risks, and improvement items
 Projects - Project Kanban board (To-do → In progress → Under review → Completed)
 
 4. Quick Navigation
-[Defect Tracking](https://github.com/iloverurudolp-dev/Google-QM-Project/issues?q=label%3ADefects)
-[Risk Management](https://github.com/iloverurudolp-dev/Google-QM-Project/issues?q=label%3ARisks)
-[Improvement Suggestions](https://github.com/iloverurudolp-dev/Google-QM-Project/issues?q=label%3AImprovements)
-[Project Kanban Board](https://github.com/iloverurudolp-dev/Google-QM-Project/projects)
+"Final Project.docx"
+https://github.com/iloverurudolp-dev/Defect-Tracking
+https://github.com/iloverurudolp-dev/Risk-Management
+https://github.com/iloverurudolp-dev/peoject
+https://github.com/users/iloverurudolp-dev/projects/2
